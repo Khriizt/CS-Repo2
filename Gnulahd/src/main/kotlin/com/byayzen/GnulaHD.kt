@@ -1,4 +1,4 @@
-package com.byayzen
+package com.mrrobiin
 
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.lagradost.api.Log
@@ -12,7 +12,7 @@ import java.util.concurrent.ConcurrentHashMap
 
 class GnulaHD : MainAPI() {
     override var mainUrl = "https://ww3.gnulahd.nu"
-    override var name = "GnulaHD"
+    override var name = "Netflix"
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries, TvType.Anime)
     override var lang = "mx"
     override val hasMainPage = true
@@ -23,6 +23,10 @@ class GnulaHD : MainAPI() {
         "$mainUrl/ver/anime" to "Últimos Animes",
         "$mainUrl/ver/peliculas/?orderby=views" to "Lo más visto",
         "$mainUrl/ver/series/?orderby=views" to "Series Populares",
+        "$mainUrl/genres/terror/" to "Terror",
+        "$mainUrl/genres/accion/" to "Acción",
+        "$mainUrl/genres/comedia/" to "Comedia",
+        "$mainUrl/genres/ciencia-ficcion/" to "Ciencia Ficción",
     )
 
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
