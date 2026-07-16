@@ -9,7 +9,7 @@ import android.util.Log
 
 class Latanime : MainAPI() {
     override var mainUrl = "https://latanime.org"
-    override var name = "Latanime"
+    override var name = "Hidive"
     override val hasMainPage = true
     override var lang = "mx"
     override val hasQuickSearch = false
