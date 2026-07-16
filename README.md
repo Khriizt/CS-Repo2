@@ -27,7 +27,7 @@ You can install the repository by clicking the logo down below on the device whe
     <td align="center">
       <a href="https://github.com/Khriizt">
         <img src="https://avatars.githubusercontent.com/u/89366989?v=4" width="80;" alt="MrRobbin"/><br />
-        <sub><b>kraptor</b></sub>
+        <sub><b>Mr Robiin</b></sub>
         </a>
   </tr>
 </table>
