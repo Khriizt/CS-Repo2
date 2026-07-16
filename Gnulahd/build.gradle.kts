@@ -1,10 +1,10 @@
-// ! Bu araç @ByAyzen tarafından | @CS-Karma için yazılmıştır.
+// Creado por MrRobiin
 version = 6
 
 cloudstream {
-    authors     = listOf("ByAyzen")
+    authors     = listOf("MrRobiin")
     language    = "mx"
-    description = "GnulaHD"
+    description = "Netflix"
     status  = 1
     tvTypes = listOf("Movie", "Anime", "TvSeries") //Movie, AnimeMovie, TvSeries, Cartoon, Anime, OVA, Torrent, Documentary, AsianDrama, Live, NSFW, Others, Music, AudioBook, CustomMedia, Audio, Podcast,
     iconUrl = "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128"
