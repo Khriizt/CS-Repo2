@@ -10,7 +10,7 @@ Puede hacer clic en el logotipo a continuación en el dispositivo donde está in
 <br>
 You can install the repository by clicking the logo down below on the device where the app is installed.
 
-[<img alt="Cs-Karma logo" width="200px" src="https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/master/.github/logo/cskarma.png"/>](https://kraptor123.github.io/redirect/?r=cloudstreamrepo://raw.githubusercontent.com/Kraptor123/cs-Karma/refs/heads/master/repo.json)
+[<img alt="Cs-Karma logo" width="200px" src="[https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/master/.github/logo/cskarma.png](https://raw.githubusercontent.com/Khriizt/CS-Repo2/refs/heads/main/.github/logo/REBEL%20Orgullo%20Azul%20y%20Oro.jpg)"/>](https://kraptor123.github.io/redirect/?r=cloudstreamrepo://raw.githubusercontent.com/Kraptor123/cs-Karma/refs/heads/master/repo.json)
 
 <h2 align="center">
 <br>
@@ -26,7 +26,7 @@ You can install the repository by clicking the logo down below on the device whe
   <tr>
     <td align="center">
       <a href="https://github.com/Khriizt">
-        <img src="https://avatars.githubusercontent.com/u/89366989?v=4" width="80;" alt="MrRobbin"/><br />
+        <img src="[https://avatars.githubusercontent.com/u/89366989?v=4](https://raw.githubusercontent.com/Khriizt/CS-Repo2/refs/heads/main/.github/logo/REBEL%20Orgullo%20Azul%20y%20Oro.jpg)" width="80;" alt="MrRobbin"/><br />
         <sub><b>Mr Robiin</b></sub>
         </a>
   </tr>
