@@ -1,8 +1,8 @@
-// ! Bu araç @ByAyzen tarafından | @CS-Karma için yazılmıştır.
+// ! Mr Robiin
 version = 5
 
 cloudstream {
-    authors     = listOf("ByAyzen")
+    authors     = listOf("MrRobiin")
     language    = "mx"
     description = "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa."
     status  = 1 // will be 3 if unspecified
