@@ -1,14 +1,11 @@
 <div align="center">
 
-# `Cs-Karma`
+# `MrRobiin`
 
-`Kısa Kodlar`: **cskarma** ya da **karmator**
-<br>
-`Short Codes`: **cskarma** or **karmator**
 
 <hr>
 
-Uygulamanın kurulu olduğu cihazda alttaki logoya tıklayıp kurulumu gerçekleştirebilirsiniz. 
+Puede hacer clic en el logotipo a continuación en el dispositivo donde está instalada la aplicación y realizar la instalación. 
 <br>
 <br>
 You can install the repository by clicking the logo down below on the device where the app is installed.
@@ -17,32 +14,20 @@ You can install the repository by clicking the logo down below on the device whe
 
 <h2 align="center">
 <br>
-  <a href="https://linktr.ee/kraptorcs">Tüm Linklerim</a>
+  <a href="https://linktr.ee/example">Mis enlaces</a>
   <br>
   <br>
-  <a href="https://linktr.ee/kraptorcs">All Of My Links</a>
+  <a href="https://linktr.ee/example">All Of My Links</a>
 </h2>
 
-# `Geliştiriciler` | `Developers`
+# `Desarrolladores` | `Desarrolladores`
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Kraptor123">
+      <a href="https://github.com/Khriizt">
         <img src="https://avatars.githubusercontent.com/u/89366989?v=4" width="80;" alt="Kraptor"/><br />
         <sub><b>kraptor</b></sub>
-        </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/ByAyzen">
-        <img src="https://avatars.githubusercontent.com/u/189399597?v=4" width="80;" alt="ByAyzen"/><br />
-        <sub><b>ByAyzen</b></sub>
-        </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/trup40">
-        <img src="https://avatars.githubusercontent.com/u/34142302?v=4" width="80;" alt="Eagle"/><br />
-        <sub><b>Eagle</b></sub>
         </a>
   </tr>
 </table>
