@@ -18,11 +18,11 @@ class GnulaHD : MainAPI() {
     override val hasMainPage = true
 
     override val mainPage = mainPageOf(
-        "$mainUrl/ver/?type=Pelicula&order=latest" to "Últimas Películas",
-        "$mainUrl/ver/?type=Serie&order=latest" to "Últimas Series",
-        "$mainUrl/ver/?type=Anime&order=latest" to "Últimos Animes",
-        "$mainUrl/ver/?type=Pelicula&order=popular" to "Películas Populares",
-        "$mainUrl/ver/?type=Serie&order=popular" to "Series Populares",
+        "$mainUrl/ver/peliculas" to "Últimas Películas",
+        "$mainUrl/ver/series" to "Últimas Series",
+        "$mainUrl/ver/anime" to "Últimos Animes",
+        "$mainUrl/ver/peliculas/?orderby=views" to "Lo más visto",
+        "$mainUrl/ver/series/?orderby=views" to "Series Populares",
     )
 
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
