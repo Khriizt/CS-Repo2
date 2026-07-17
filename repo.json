@@ -1,9 +1,0 @@
-{
-  "iconUrl": "https://raw.githubusercontent.com/Khriizt/CS-Repo2/refs/heads/main/.github/logo/REBEL%20Orgullo%20Azul%20y%20Oro.jpg",
-  "name": "Mr Robiin",
-  "description": "Plugins Anime, Películas, Series, Doramas en Español Latino.",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/Khriizt/CS-Repo2/refs/heads/builds/plugins.json"
-  ]
-}
