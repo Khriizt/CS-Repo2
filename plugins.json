@@ -1,7 +1,7 @@
 [
    
     {
-        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Gnulahd.cs3",
+        "url": "https://raw.githubusercontent.com/Khriizt/CS-Repo2/builds/Gnulahd.cs3",
         "status": 1,
         "version": 6,
         "name": "Netflix",
@@ -11,7 +11,7 @@
         ],
         "description": "GnulaHD",
         "fileSize": 28985,
-        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo2",
         "language": "mx",
         "tvTypes": [
             "Movie",
