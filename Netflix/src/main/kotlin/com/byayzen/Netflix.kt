@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.utils.AppUtils
 import kotlinx.coroutines.*
 import java.util.concurrent.ConcurrentHashMap
 
-class GnulaHD : MainAPI() {
+class Netflix : MainAPI() {
     override var mainUrl = "https://ww3.gnulahd.nu"
     override var name = "Netflix"
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries, TvType.Anime)
